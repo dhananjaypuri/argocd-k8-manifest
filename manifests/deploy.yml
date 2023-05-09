@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: webpod
-          image: dhananjaypuri/jenkins-python-ec2:27
+          image: dhananjaypuri/jenkins-python-ec2:38
           ports:
             - containerPort: 5000
          
